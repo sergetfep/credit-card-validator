@@ -1,10 +1,8 @@
-# Домашнее задание к занятию "4.Организация тестирования"
+# Credit Card Validator
 
-## Credit Card Validator
+Бейджик сборки: [![build](https://github.com/sergetfep/credit-card-validator/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sergetfep/ahj-testing-credit-card-validator/actions/workflows/ci.yml)
 
-Бейджик сборки:[![build](https://github.com/sergetfep/credit-card-validator/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sergetfep/ahj-testing-credit-card-validator/actions/workflows/ci.yml)
-
-Ссылка на Github Pages: [Виджет для проверки номера банковской карты](https://sergetfep.github.io/credit-card-validator/actions/)
+Ссылка на Github Pages: [Виджет для проверки номера банковской карты](https://sergetfep.github.io/credit-card-validator/)
 
 ## Описание
 
@@ -39,7 +37,7 @@ npm test
 
 ## Источники
 
-- само задание из README
+- задание из README
 - алгоритм [Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm)
 - [FreeFormatter](https://www.freeformatter.com/credit-card-number-generator-validator.html) (тестовые номера и диапазоны)
 - для поиска изображений использован сервис [icons8.ru](https://icons8.ru/icons)
