@@ -10,10 +10,10 @@
 
 Что сделано:
 
-- определение платёжной системы по префиксу номера;
-- проверка номера карты по алгоритму "Luhn";
-- выделение найденной платёжной системы в интерфейсе;
-- unit-тесты для проверки номера и определения платёжной системы.
+- определение платёжной системы по префиксу номера
+- проверка номера карты по алгоритму "Luhn"
+- выделение найденной платёжной системы в интерфейсе
+- unit-тесты для проверки номера и определения платёжной системы
 
 Поддерживаемые платёжные системы:
 
@@ -39,10 +39,10 @@ npm test
 
 - задание из README
 - алгоритм [Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm)
-- [FreeFormatter](https://www.freeformatter.com/credit-card-number-generator-validator.html) (тестовые номера и диапазоны)
+- тестовые номера и диапазоны из [FreeFormatter](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 - для поиска изображений использован сервис [icons8.ru](https://icons8.ru/icons)
 - пример e2e из каталога `testing/e2e`
 
 ## Ссылка за задание
 
-Ссылка: [4.Организация тестирования](https://github.com/netology-code/ahj-homeworks/tree/AHJ-50/testing)
+Ссылка: [4. Организация тестирования](https://github.com/netology-code/ahj-homeworks/tree/AHJ-50/testing)
