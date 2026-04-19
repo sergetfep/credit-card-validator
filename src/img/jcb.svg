@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="40" viewBox="0 0 62 40" fill="none">
+  <rect x="0.5" y="0.5" width="61" height="39" rx="8" fill="white" stroke="#D7DEE8"/>
+  <rect x="12" y="8" width="12" height="24" rx="5" fill="#1F7A4D"/>
+  <rect x="25" y="8" width="12" height="24" rx="5" fill="#0F6CBD"/>
+  <rect x="38" y="8" width="12" height="24" rx="5" fill="#C93535"/>
+  <text x="31" y="24" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="white">JCB</text>
+</svg>
